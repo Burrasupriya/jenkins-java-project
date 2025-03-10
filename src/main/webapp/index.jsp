@@ -20,7 +20,7 @@
           <label>Email</label>
         </div>
         <div class="form-control">
-          <input type="password" required />
+          <input type="password type ...." required />
           <label>Password</label>
         </div>
         <button type="submit"> ok go </button>
